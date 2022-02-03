@@ -1,3 +1,4 @@
+[My Github Perfil](https://www.gratispng.com/png-l8is9v/)
 <h1 align="center"> Bem vindos, conheçam um pouco sobre mim aqui: </h1>
 
 Oi! Sou Erick Dias, residente da cidade de Praia Grande/SP. Sou estudante do 2° semestre de Análise e Desenvolvimento de Sistemas na FATEC - Faculdade de Tecnologia.
