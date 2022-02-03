@@ -1,4 +1,6 @@
-Oi! Sou Erick, sou estudante do segundo semestre de Análise e Desenvolvimento de Sistemas na FATEC Praia Grande,
+<h1> Bem Vindos! </h1>
+
+Oi! Sou Erick Dias, residente da cidade de Praia Grande/SP. Sou estudante do segundo semestre de Análise e Desenvolvimento de Sistemas na FATEC Praia Grande,
 atualmente trabalho como Auxiliar de TI. Meu interesse na área da tecnologia vem desde minha adolescência,
 quando comecei a aprender mais sobre como criar um servidor de jogo, em desenvolvimento com o jogo que eu jogava na época,
 depois de criar o servidor e mexer com as ferramentas de edição de mapa, banco de dados, 
