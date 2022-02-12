@@ -23,8 +23,6 @@ Já trabalhei em muitas áreas relacionadas a atendimento, tenho muita facilidad
   <img title="HTML" align="center" alt="Erick-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS" align="center" alt="Erick-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img title="React" align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img title="Oracle-SQL" align="center" alt="Erick-Oracle" height="30" width="40" src="">
-  
 </div>
 
 <h3 align="center"> Ferramenta de edição de código </h3>
