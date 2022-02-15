@@ -33,7 +33,7 @@ Já trabalhei em muitas áreas relacionadas a atendimento, tenho muita facilidad
   
 ##
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/erickbeavis/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
   <h3 align="center"> Minhas redes </h3>
   
