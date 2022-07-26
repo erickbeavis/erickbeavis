@@ -19,7 +19,7 @@ Já trabalhei em muitas áreas relacionadas a atendimento, tenho muita facilidad
   <img title="HTML" align="center" alt="Erick-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS" align="center" alt="Erick-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img title="Java" align="center" alt="Erick-Java" height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
-    <img title="Spring" align="center" alt="Erick-Spring" height="40" width="50" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo-300x270.png">
+    <img title="Spring" align="center" alt="Erick-Spring" height="40" width="45" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo-300x270.png">
 </div>
 
 <h3 align="center"> Ferramenta de edição de código </h3>
