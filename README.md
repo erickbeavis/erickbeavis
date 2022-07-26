@@ -18,12 +18,13 @@ Já trabalhei em muitas áreas relacionadas a atendimento, tenho muita facilidad
   <img title="JavaScript" align="center" alt="Erick-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img title="HTML" align="center" alt="Erick-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS" align="center" alt="Erick-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="React" align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img title="Java" align="center" alt="Erick-Java" height="40" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
+  <img title="Java" align="center" alt="Erick-Java" height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
+    <img title="Spring" align="center" alt="Erick-Spring" height="40" width="50" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo-300x270.png">
 </div>
 
 <h3 align="center"> Ferramenta de edição de código </h3>
 <div style="display: inline_block"><br>
+    <img title="Eclipse" align="center" alt="Erick-Eclipse" width="40px" src="https://algol.dev/wp-content/uploads/2020/10/logo-eclipse.png">
     <img title="NodeJS" align="center" alt="Erick-VSCode" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
     <img title="Sublime" align="center" alt="Erick-VSCode" width="40px" src="https://www.seekpng.com/png/full/242-2425273_sublime-text-icon-sublime-text-3-icon-png.png">
 </div>
