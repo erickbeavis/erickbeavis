@@ -7,7 +7,7 @@
 <h1 align="center"> Bem vindos, conheçam um pouco sobre mim aqui: </h1>
 
 
-Oi! Sou Erick Dias, residente da cidade de Praia Grande/SP. Sou estudante do 3° semestre de Análise e Desenvolvimento de Sistemas na FATEC - Faculdade de Tecnologia.
+Oi! Sou Erick Dias, residente da cidade de Praia Grande/SP. Sou estudante do 4° semestre de Análise e Desenvolvimento de Sistemas na FATEC - Faculdade de Tecnologia.
 
 Procuro por oportunidades para encarar desafios e me colocar a prova, não tenho medo de aprender, sempre que tenho um obstáculo eu procuro estudar para resolve-lo.
 
