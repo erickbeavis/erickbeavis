@@ -30,8 +30,6 @@ Já trabalhei em muitas áreas relacionadas a atendimento, tenho muita facilidad
 </div>
   
 ##
-  
-![Snake animation](https://github.com/erickbeavis/blob/output/github-contribution-grid-snake.svg)
 
   <h3 align="center"> Minhas redes </h3>
   
