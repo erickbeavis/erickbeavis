@@ -7,7 +7,7 @@
 <h1 align="center"> Bem vindos, conheçam um pouco sobre mim aqui: </h1>
 
 
-Oi! Sou Erick Dias, sou estudante do 4° semestre de Análise e Desenvolvimento de Sistemas na FATEC - Faculdade de Tecnologia.
+Oi! Sou Erick Dias, sou estudante do 5° semestre de Análise e Desenvolvimento de Sistemas na FATEC - Faculdade de Tecnologia.
 
 <h3 align="center"> Meus conhecimentos com a programação </h3>
 <div style="display: inline_block"><br>
