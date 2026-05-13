@@ -12,7 +12,6 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos e construir apl
 - ☁️ **Cloud:** Experiência com processamento assíncrono utilizando AWS Lambda, SQS e EFS.
 - 🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC Praia Grande (Dez/2024).
 - ⚙️ **Foco técnico:** Aplicação de princípios SOLID, Clean Code e testes automatizados (JUnit/BDD).
-- 🌍 **Idiomas:** Português (Nativo) e Inglês (B2 - Intermediário).
 
 ## 💻 Tech Stack
 
