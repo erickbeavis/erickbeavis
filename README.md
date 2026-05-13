@@ -1,36 +1,54 @@
+# Olá, eu sou o Erick Dias! 👋
 
-<h1 align="center"> Bem vindos, conheçam um pouco sobre mim aqui: </h1>
+### Desenvolvedor Fullstack Java | React | AWS
 
+Sou um desenvolvedor apaixonado por resolver problemas complexos e construir aplicações escaláveis. [cite_start]Atualmente, atuo no **SOC**, o maior software de SST do Brasil, onde foco no ecossistema Java e em arquiteturas serverless com AWS. [cite: 1, 4, 17]
 
-Oi! Sou Erick Dias, sou estudante do 5° semestre de Análise e Desenvolvimento de Sistemas na FATEC - Faculdade de Tecnologia.
+---
 
-<h3 align="center"> Meus conhecimentos com a programação </h3>
-<div style="display: inline_block"><br>
-  <img title="JavaScript" align="center" alt="Erick-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img title="HTML" align="center" alt="Erick-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img title="CSS" align="center" alt="Erick-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="Java" align="center" alt="Erick-Java" height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
-    <img title="Spring" align="center" alt="Erick-Spring" height="40" width="45" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo-300x270.png">
-</div>
+## 🛠️ Sobre mim
 
-<h3 align="center"> Ferramenta de edição de código </h3>
-<div style="display: inline_block"><br>
-    <img title="Eclipse" align="center" alt="Erick-Eclipse" width="40px" src="https://algol.dev/wp-content/uploads/2020/10/logo-eclipse.png">
-    <img title="NodeJS" align="center" alt="Erick-VSCode" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-    <img title="Sublime" align="center" alt="Erick-VSCode" width="40px" src="https://www.seekpng.com/png/full/242-2425273_sublime-text-icon-sublime-text-3-icon-png.png">
-</div>
-  
-##
+- [cite_start]🚀 **Atualmente:** Desenvolvendo e mantendo aplicações críticas com Java, Struts 2 e React. [cite: 19]
+- [cite_start]☁️ **Cloud:** Experiência com processamento assíncrono utilizando AWS Lambda, SQS e EFS. [cite: 20, 71]
+- [cite_start]🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC Praia Grande (Dez/2024). [cite: 29, 30, 84]
+- [cite_start]⚙️ **Foco técnico:** Aplicação de princípios SOLID, Clean Code e testes automatizados (JUnit/BDD). [cite: 6, 12, 21]
+- [cite_start]🌍 **Idiomas:** Português (Nativo) e Inglês (B2 - Intermediário). [cite: 32, 33]
 
-  <h3 align="center"> Minhas redes </h3>
-  
-<div> 
-  <a href="https://instagram.com/erickbeavis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erick-dias-de-sousa-5b6399218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.github.com/erickbeavis" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
-  
-##
-  
-  <h3 align="center"> Foi um prazer ter você aqui, volte sempre! </h3>
-  
+---
+
+## 💻 Tech Stack
+
+### Backend & Cloud
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Ferramentas & Qualidade
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickbeavis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbeavis&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+## 📫 Contato
+
+- [cite_start]**LinkedIn:** [linkedin.com/in/erickbeavis](https://www.linkedin.com/in/erickbeavis) [cite: 39]
+- [cite_start]**E-mail:** [aceraki123@gmail.com](mailto:aceraki123@gmail.com) [cite: 2, 38]
+- [cite_start]**Localização:** Praia Grande/SP - Brasil 🇧🇷 [cite: 2, 36]
+
+---
+[cite_start]*Manual de Engenharia de Prompt (AI) aplicado para otimização de fluxos.* [cite: 52]
