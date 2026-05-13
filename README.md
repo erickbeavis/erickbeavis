@@ -1,9 +1,4 @@
 
-<div align="center">
-  <a href="https://github.com/erickbeavis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickbeavis&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-</div>
-
 <h1 align="center"> Bem vindos, conheçam um pouco sobre mim aqui: </h1>
 
 
