@@ -49,10 +49,10 @@ Sou um desenvolvedor fascinado por resolver problemas complexos e construir apli
 
 ## 📊 Estatísticas no GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickbeavis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbeavis&layout=compact&theme=dracula&hide=html,css"/>
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=erickbeavis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbeavis&layout=compact&theme=dracula&hide=html,css" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
