@@ -50,8 +50,8 @@ Sou um desenvolvedor fascinado por resolver problemas complexos e construir apli
 ## 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=erickbeavis&theme=dracula" alt="GitHub Streak" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erickbeavis&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://img.shields.io/github/followers/erickbeavis?label=Seguidores&style=for-the-badge&color=2671E5&logo=github" />
+  <img src="https://img.shields.io/github/stars/erickbeavis?label=Stars&style=for-the-badge&color=FF9900&logo=github" />
 </p>
 
 ---
